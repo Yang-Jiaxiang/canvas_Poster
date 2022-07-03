@@ -2,14 +2,16 @@
 
 使用[React 18.2.0](https://zh-hant.reactjs.org/ "React 18.2.0") 實作，利用HTML元素[Canvas](https://developer.mozilla.org/zh-TW/docs/Web/API/Canvas_API/Tutorial "Canvas")達到海報、瀏覽圖，提供複製。
 
-###  安裝
+Implemented using [React 18.2.0](https://zh-hant.reactjs.org/ "React 18.2.0"), using HTML element [Canvas](https://developer.mozilla.org/zh-TW/docs/Web/API/Canvas_API/Tutorial "Canvas") to achieve posters, browsing images, and provide copying.
+
+###  安裝Install
 `! git clone https://github.com/Yang-Jiaxiang/canvas_Poster.git`
 
 `! cd canvas_Poster`
 
 `! npm install `
 
-###  啟動文件
+###  啟動文件Startup
 `! npm start `
 
 ###  Config設置
