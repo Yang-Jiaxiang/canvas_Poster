@@ -1,5 +1,3 @@
-import backgroundImage from "./backgroundImage.jpg";
-
 export const config = {
     PosterWidth: 800,
     PosterHeight: 400,
